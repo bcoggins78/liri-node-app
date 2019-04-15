@@ -28,22 +28,37 @@ To use this app, there are four parameters that will need to be used.
 Using the parameter + the search items will bring back the desired results.  If no search item is used with "spotify-this-song" then it will default to "The Sign" by "Ace of Base".  Also, if nothing is used with "movie-this", then it will default to "Mr. Nobody".  All search results and commands are written to the log.txt file.  Example screenshots are below.
 
 * concert-this
+
+I'm a Foo Fighters fan so this lists five upcoming concerts
+
 ![concert-this](/images/concert-this.gif)
 
 * spotify-this-song
+
+Here we are searching for "The Sound of Silence"
+
 ![spotify-this-song](/images/spotify-this-song.gif)
 
 * spotify-this-song without a search item
+
 ![spotify-without-search](/images/spotify-this-song-the-sign.gif)
 
 * movie-this
+
+Here is some info on The Matrix
+
 ![movie-this](/images/movie-this.gif)
 
 * movie-this without a search item
+
 ![movie-without-search](/images/movie-this-nobody.gif)
 
 * do-what-it-says
+
+We are using the random.txt file to input the commands
+
 ![random](/images/random.jpg)
+
 ![do-what-it-says](/images/do-what-it-says.gif)
 
 * Results written to the [Log file](/log.txt)
