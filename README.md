@@ -46,6 +46,5 @@ Using the parameter + the search items will bring back the desired results.  If 
 ![random](/images/random.jpg)
 ![do-what-it-says](/images/do-what-it-says.gif)
 
-* Results written to log file
-[Log file](/log.txt)
+* Results written to the [Log file](/log.txt)
 
