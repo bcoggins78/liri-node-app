@@ -1,69 +1,6 @@
 
 
 --------Command Used---------
-do-what-it-says 
-===========================================
-Artist: Halestorm
-Track Name: Here's To Us
-Preview URL: https://open.spotify.com/track/0a5UnIvDUBzqwUduJsouRy
-Album: The Strange Case of... (Deluxe)
-===========================================
-Artist: Various Artists
-Track Name: Here's To Us
-Preview URL: https://open.spotify.com/track/7nugvFppp4iogs6mwv6AJc
-Album: Girls, Vol. 3 (Music From The HBO Original Series)
-===========================================
-Artist: The Bouncing Souls
-Track Name: Here's To Us
-Preview URL: https://open.spotify.com/track/5FPqsuveLITGgSFzJft2wn
-Album: Crucial Moments
-===========================================
-Artist: Victorious Cast
-Track Name: Here's 2 Us
-Preview URL: https://open.spotify.com/track/3n5TN5s5NFWatzrsFmQOse
-Album: Victorious 3.0: Even More Music From The Hit TV Show
-===========================================
-Artist: Halestorm
-Track Name: Here's to Us
-Preview URL: https://open.spotify.com/track/23bLv4aPf9Nt53KCybyFKf
-Album: Hello, It's Mz. Hyde
-
---------Command Used---------
-movie-this the matrix
-===========================================
-Title: The Matrix
-Year of Release: 1999
-IMDB Rating: 8.7/10
-Rotten Tomatoes Rating: 88%
-Country: USA
-Language: English
-Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
-Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
-
---------Command Used---------
-concert-this halestorm
-===========================================
-Name of the Venue: Verizon Center
-Venue Location: Mankato, MN
-Date: 04/18/2019
-===========================================
-Name of the Venue: Shrine Auditorium 
-Venue Location: Billings, MT
-Date: 04/20/2019
-===========================================
-Name of the Venue: The Union Event Center
-Venue Location: Salt Lake City, UT
-Date: 04/22/2019
-===========================================
-Name of the Venue: The Revolution Center
-Venue Location: Boise, ID
-Date: 04/23/2019
-===========================================
-Name of the Venue: Toyota Center
-Venue Location: Kennewick, WA
-Date: 04/25/2019
-
---------Command Used---------
 concert-this foo fighters
 ===========================================
 Name of the Venue: Epicenter Festival
@@ -74,45 +11,17 @@ Name of the Venue: The Fillmore New Orleans
 Venue Location: New Orleans, LA
 Date: 05/15/2019
 ===========================================
-Name of the Venue: Sonic Temple Festival (May 17-19)
-Venue Location: Columbus, OH
-Date: 05/17/2019
-===========================================
 Name of the Venue: The Fillmore New Orleans
 Venue Location: New Orleans, LA
 Date: 05/16/2019
 ===========================================
+Name of the Venue: Sonic Temple Festival (May 17-19)
+Venue Location: Columbus, OH
+Date: 05/17/2019
+===========================================
 Name of the Venue: Pula Arena
 Venue Location: Pula, 
 Date: 06/18/2019
-
---------Command Used---------
-spotify-this-song smells like teen spirit
-===========================================
-Artist: Nirvana
-Track Name: Smells Like Teen Spirit
-Preview URL: https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T
-Album: Nevermind (Remastered)
-===========================================
-Artist: Nirvana
-Track Name: Smells Like Teen Spirit - Live At The Paramount/1991
-Preview URL: https://open.spotify.com/track/50bA0cAFEo3Ep99yj0x2th
-Album: Live At The Paramount
-===========================================
-Artist: David Garrett
-Track Name: Smells Like Teen Spirit
-Preview URL: https://open.spotify.com/track/7nv6p7p0coIqkhhzr3E7xk
-Album: Rock Symphonies
-===========================================
-Artist: The Used
-Track Name: Smells Like Teen Spirit (Nirvana cover)
-Preview URL: https://open.spotify.com/track/4D1U8O6nCu9ezIiCzw1l0g
-Album: The Used Live From Maida Vale
-===========================================
-Artist: Fame on Fire
-Track Name: Smells Like Teen Spirit
-Preview URL: https://open.spotify.com/track/5Euw1gvoVjtoUvTi097kyz
-Album: Smells Like Teen Spirit
 
 --------Command Used---------
 spotify-this-song the sound of silence
@@ -132,12 +41,73 @@ Track Name: The Sound Of Silence
 Preview URL: https://open.spotify.com/track/0eZBeB2xFIS65jQHerispi
 Album: Immortalized (Deluxe Version)
 ===========================================
-Artist: Simon & Garfunkel
-Track Name: The Sound of Silence
-Preview URL: https://open.spotify.com/track/2LkaNhCrNVmcYgXJeLVmsw
-Album: The Graduate
-===========================================
 Artist: Pentatonix
 Track Name: The Sound of Silence
 Preview URL: https://open.spotify.com/track/0ZFeVCKCMCXUQ1TKVd2azW
 Album: The Sound of Silence
+===========================================
+Artist: Simon & Garfunkel
+Track Name: The Sound of Silence
+Preview URL: https://open.spotify.com/track/2LkaNhCrNVmcYgXJeLVmsw
+Album: The Graduate
+
+--------Command Used---------
+spotify-this-song 
+===========================================
+Artist: Ace of Base
+Track Name: The Sign
+Preview URL: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+Album: The Sign (US Album) [Remastered]
+
+--------Command Used---------
+movie-this the matrix
+===========================================
+Title: The Matrix
+Year of Release: 1999
+IMDB Rating: 8.7/10
+Rotten Tomatoes Rating: 88%
+Country: USA
+Language: English
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+
+--------Command Used---------
+movie-this 
+===========================================
+Title: Mr. Nobody
+Year of Release: 2009
+IMDB Rating: 7.8/10
+Rotten Tomatoes Rating: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+
+--------Command Used---------
+do-what-it-says 
+===========================================
+Artist: Halestorm
+Track Name: Here's To Us
+Preview URL: https://open.spotify.com/track/0a5UnIvDUBzqwUduJsouRy
+Album: The Strange Case of... (Deluxe)
+===========================================
+Artist: Various Artists
+Track Name: Here's To Us
+Preview URL: https://open.spotify.com/track/7nugvFppp4iogs6mwv6AJc
+Album: Girls, Vol. 3 (Music From The HBO Original Series)
+===========================================
+Artist: Victorious Cast
+Track Name: Here's 2 Us
+Preview URL: https://open.spotify.com/track/3n5TN5s5NFWatzrsFmQOse
+Album: Victorious 3.0: Even More Music From The Hit TV Show
+===========================================
+Artist: The Bouncing Souls
+Track Name: Here's To Us
+Preview URL: https://open.spotify.com/track/5FPqsuveLITGgSFzJft2wn
+Album: Crucial Moments
+===========================================
+Artist: Halestorm
+Track Name: Here's to Us
+Preview URL: https://open.spotify.com/track/23bLv4aPf9Nt53KCybyFKf
+Album: Hello, It's Mz. Hyde
