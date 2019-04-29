@@ -3,14 +3,14 @@
 ### UNC Coding Bootcamp Week 10 Homework Project
 
 
-This week introduced the use of NodeJS and gave us our first taste of backend web development.  
+This week introduced the use of Node.js and gave us our first taste of backend web development.  
 
-The LIRI Bot uses NodeJS to perform querys from three different APIs and displays the results in the terminal
+The LIRI Bot uses Node.js to perform querys from three different APIs and displays the results in the terminal
 
 This project uses:
 
 * JavaScript
-* NodeJS
+* Node.js
 * Moment
 * Axios
 * Node-Spotify-API
